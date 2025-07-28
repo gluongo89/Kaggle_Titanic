@@ -136,3 +136,4 @@ __MACOSX/
 .vscode
 .python-version
 data.zip
+/data
