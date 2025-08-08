@@ -1,7 +1,8 @@
 # Kaggle_Titanic
 Training exercises from Kaggle
-Check the Jupyter Notebook file to see the AUC Score: 0.88
-
+Check the Jupyter Notebook file to see details
+the Logistic Regression model returned an AUC Score of 0.88, Kaggle score: 0.767
+the Classification Random Forest an AUC score of 0.82, but on Kaggle 0.77
 
 - Install the virtual environment and the required packages by following commands:
 
