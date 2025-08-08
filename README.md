@@ -1,5 +1,6 @@
 # Kaggle_Titanic
 Training exercises from Kaggle
+Check the Jupyter Notebook file to see the AUC Score: 0.88
 
 
 - Install the virtual environment and the required packages by following commands:
